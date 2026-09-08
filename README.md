@@ -22,7 +22,7 @@ Using Python-based data analysis techniques, the project performs data cleaning,
 * NumPy
 * Matplotlib
 * Seaborn
-* Jupyter Notebook
+* Google Colab
 
 ## Analysis Performed
 
